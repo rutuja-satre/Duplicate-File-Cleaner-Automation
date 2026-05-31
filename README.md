@@ -144,11 +144,13 @@ Duplicate-File-Cleaner-With-Logging/
 │
 ├── DuplicateCleaner.py
 ├── README.md
-├── Demo/
-│   ├── file1.txt
-│   ├── copy_file1.txt
-│   └── SubFolder/
-│       └── copy_file2.txt
+├── Example/
+│   ├── Demo.txt
+│   ├── Demo.txt-copy
+|   └── Demo.txt-copy(2)
+│   └── Hello.txt
+|   └── Hello.txt-copy
+│   └── Hello.txt-copy(2)
 │
 └── Logger*.log
 
