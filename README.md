@@ -179,5 +179,3 @@ This project demonstrates practical experience with:
 
 ---
 
-
-Python Developer | Automation Enthusiast
